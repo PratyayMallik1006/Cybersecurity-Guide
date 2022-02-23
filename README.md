@@ -24,10 +24,18 @@ The attacker needs to set up the payload before the attack. Which can be easily 
 The avalable payloads include:
 
 - Pranks like rickroll
-- revese shell attacks (in simple words getiing remote access of target machine from internet)
+- revese shell attacks (in simple words getting remote access of target machine from internet)
 - password stealler
 
 Attcker can eaily create their own scripts also.As you can imagine the possibilities are endless, afterall you can mimic to be a user's keyboard.
 
 ### DIY Rubber ducky
-Now rubber ducky is a bit expensive($50) and it may not be available in many countries also there is a risk of loosing it after attacking, so you might think it's quite unlikely that someone will hack an ordinary user with a rubber ducky, well it can esily made using affordable microcontrollers like Raspberry pi pico & Digispark Attiny85.
+Now rubber ducky is a bit expensive($50) and it may not be available in many countries also there is a risk of loosing it after attacking, so you might think it's quite unlikely that someone will hack an ordinary user with a rubber ducky, well it can esily made using affordable microcontrollers like Raspberry pi pico & Digispark Attiny85. <br>
+To know more check out the following videos.
+[![pico ducky](https://github.com/PratyayMallik1006/Cybersecurity-Guide/blob/main/images/pico-ducky.PNG)](https://www.youtube.com/watch?v=e_f9p-_JWZw)
+[![rubber ducky](https://github.com/PratyayMallik1006/Cybersecurity-Guide/blob/main/images/digispark-ducky.PNG)](https://www.youtube.com/watch?v=YMqh4Q_CXYM)
+ ### <i> How to protect yourself </i>
+ - Never trust any USB device like flash drive, powerbanks or even USB cables
+ - Always lock your system (windows key + l)
+ - Always check if any foreign USB device is coonected to your system or not
+ - Enable password authentication for admistrative access (https://youtu.be/e_f9p-_JWZw?t=1056)
