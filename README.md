@@ -37,5 +37,8 @@ To know more check out the following videos.
  ### <i> How to protect yourself </i>
  - Never trust any USB device like flash drive, powerbanks or even USB cables
  - Always lock your system (windows key + l)
- - Always check if any foreign USB device is coonected to your system or not
+ - Always check if any foreign USB device is connected to your system or not
  - Enable password authentication for admistrative access (https://youtu.be/e_f9p-_JWZw?t=1056)
+ # i. Software hacking tools
+<h1><i>Setting up our hacking lab:</i></h1>
+Now while working with hacking tools we want to work in an environment that's safe and anonymous, for this we will use a virtual machine running linux OS like Kali linux or Parrot OS
