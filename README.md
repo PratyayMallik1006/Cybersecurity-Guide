@@ -41,4 +41,34 @@ To know more check out the following videos.
  - Enable password authentication for admistrative access (https://youtu.be/e_f9p-_JWZw?t=1056)
  # i. Software hacking tools
 <h1><i>Setting up our hacking lab:</i></h1>
-Now while working with hacking tools we want to work in an environment that's safe and anonymous, for this we will use a virtual machine running linux OS like Kali linux or Parrot OS
+<p>Now while working with hacking tools we want to work in an environment that's safe and anonymous, for this we will use a virtual machine running linux OS like Kali linux or Parrot OS</p>
+<br>
+
+ ## 1.Acessing Web Camera with a link:
+The avalable payloads include:
+
+- CamPhish: (https://github.com/techchipnet/CamPhish)
+<br>
+
+
+## 2.Acessing Location with a link:
+<br>
+The avalable payloads include:
+
+- Seeker: (https://github.com/thewhiteh4t/seeker)
+<br>
+
+ ### <i> How to protect yourself </i>
+ 
+ - Go to browser settings
+ - Go to "Security and Privacy"
+ - Go to "site settings"
+ - Revoke unnecessary permission
+ - Do not click on unknown links
+ <br>
+ 
+ ## 3. Fake Login Screen to capture windows password
+ The avalable payloads include:
+- FakeLogonScreen: (https://github.com/bitsadmin/fakelogonscreen)
+ 
+ 
